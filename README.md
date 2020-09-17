@@ -6,10 +6,10 @@ Soongsil software 2-2 window programing project(MFC)
 
 # Presentation(ppt)
 
-<table border="5px" style="width=100%">
+<table border="2.5px" style="width=100%">
     <tbody>
-        <tr style="width:100%;">
-            <td style="width:50%;">
+        <tr border="2.5px" style="width:100%;">
+            <td  border="2.5px" style="width:50%;">
                 <img src="./img/1.JPG" width="600" height="250"/>
             </td>
             <td style="width:50%;">
