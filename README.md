@@ -8,8 +8,8 @@ Soongsil software 2-2 window programing project(MFC)
 
 <table border="2.5px" style="width=100%">
     <tbody>
-        <tr border="2.5px" style="width:100%;">
-            <td  border="2.5px" style="width:50%;">
+        <tr style="width:100%;">
+            <td style="width:50%;">
                 <img src="./img/1.JPG" width="600" height="250"/>
             </td>
             <td style="width:50%;">
