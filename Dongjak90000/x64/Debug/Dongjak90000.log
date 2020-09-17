@@ -1,0 +1,29 @@
+﻿  stdafx.cpp
+  ChoiceMode.cpp
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Play_24Cards\Play24Cards.h(8,1): warning C4005: 'MAX_CARD_COUNT': 매크로 재정의
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Play_16Cards\Play16Cards.h(8): message : 'MAX_CARD_COUNT'의 이전 정의를 참조하십시오.
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Play_24Cards\Play24Cards.h(9,1): warning C4005: 'REAL_CARD_COUNT': 매크로 재정의
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Play_16Cards\Play16Cards.h(9): message : 'REAL_CARD_COUNT'의 이전 정의를 참조하십시오.
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Play_32Cards\Play32Cards.h(5,1): warning C4005: 'MAX_CARD_COUNT': 매크로 재정의
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Play_24Cards\Play24Cards.h(8): message : 'MAX_CARD_COUNT'의 이전 정의를 참조하십시오.
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Play_32Cards\Play32Cards.h(6,1): warning C4005: 'REAL_CARD_COUNT': 매크로 재정의
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Play_24Cards\Play24Cards.h(9): message : 'REAL_CARD_COUNT'의 이전 정의를 참조하십시오.
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Play_48Cards\Play48Cards.h(5,1): warning C4005: 'MAX_CARD_COUNT': 매크로 재정의
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Play_32Cards\Play32Cards.h(5): message : 'MAX_CARD_COUNT'의 이전 정의를 참조하십시오.
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Play_48Cards\Play48Cards.h(6,1): warning C4005: 'REAL_CARD_COUNT': 매크로 재정의
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Play_32Cards\Play32Cards.h(6): message : 'REAL_CARD_COUNT'의 이전 정의를 참조하십시오.
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Dongjak90000\ChoiceMode.cpp(223,21): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'CStringA'입니다.
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Dongjak90000\ChoiceMode.cpp(227,27): warning C4474: 'fprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Dongjak90000\ChoiceMode.cpp(227,27): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Dongjak90000\ChoiceMode.cpp(219,7): warning C4101: 'id' :참조되지 않은 지역 변수입니다.
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Dongjak90000\ChoiceMode.cpp(220,6): warning C4101: 'rankTemp' :참조되지 않은 지역 변수입니다.
+  Dongjak90000.cpp
+  Dongjak90000Dlg.cpp
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Dongjak90000\Dongjak90000Dlg.cpp(207,26): warning C4474: 'fscanf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Dongjak90000\Dongjak90000Dlg.cpp(207,26): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  IDManager.cpp
+  Rank.cpp
+  Ranking.cpp
+  UserID.cpp
+  코드를 생성하고 있습니다...
+  Dongjak90000.vcxproj -> C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\x64\Debug\Dongjak90000.exe

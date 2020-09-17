@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Play48Cards.cpp
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Play_48Cards\Play48Cards.cpp(161,13): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  Play_48Cards.cpp
+  코드를 생성하고 있습니다...
+C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\Play_48Cards\Play48Cards.cpp(107): warning C4715: 'CPlay48Cards::OnInitDialog': 모든 제어 경로에서 값을 반환하지는 않습니다.
+     C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\x64\Debug\Play_48Cards.lib 라이브러리 및 C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\x64\Debug\Play_48Cards.exp 개체를 생성하고 있습니다.
+  Play_48Cards.vcxproj -> C:\Users\CSR\Desktop\University Resources\2-2\Window Programing\프로젝트\x64\Debug\Play_48Cards.dll
