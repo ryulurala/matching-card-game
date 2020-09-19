@@ -4,80 +4,17 @@ Soongsil software 2-2 window programing project(MFC)
 
 &nbsp;
 
-```html
-# Presentation(ppt)
+---
 
-<table border="2.5px" style="width=100%">
-  <tbody>
-    <tr style="width:100%;">
-      <td style="width:50%;">
-        <img src="./img/1.JPG" width="600" height="250" />
-      </td>
-      <td style="width:50%;">
-        <img src="./img/2.JPG" width="600" height="250" />
-      </td>
-    </tr>
-    <tr style="width:100%;">
-      <td style="width:50%;">
-        <img src="./img/3.JPG" width="600" height="250" />
-      </td>
-      <td style="width:50%;">
-        <img src="./img/4.JPG" width="600" height="250" />
-      </td>
-    </tr>
-    <tr style="width:100%;">
-      <td style="width:50%;">
-        <img src="./img/5.JPG" width="600" height="250" />
-      </td>
-      <td style="width:50%;">
-        <img src="./img/6.JPG" width="600" height="250" />
-      </td>
-    </tr>
-    <tr style="width:100%;">
-      <td style="width:50%;">
-        <img src="./img/7.JPG" width="600" height="250" />
-      </td>
-      <td style="width:50%;">
-        <img src="./img/8.JPG" width="600" height="250" />
-      </td>
-    </tr>
-    <tr style="width:100%;">
-      <td style="width:50%;">
-        <img src="./img/9.JPG" width="600" height="250" />
-      </td>
-      <td style="width:50%;">
-        <img src="./img/10.JPG" width="600" height="250" />
-      </td>
-    </tr>
-    <tr style="width:100%;">
-      <td style="width:50%;">
-        <img src="./img/11.JPG" width="600" height="250" />
-      </td>
-      <td style="width:50%;">
-        <img src="./img/12.JPG" width="600" height="250" />
-      </td>
-    </tr>
-    <tr style="width:100%;">
-      <td style="width:50%;">
-        <img src="./img/13.JPG" width="600" height="250" />
-      </td>
-      <td style="width:50%;">
-        <img src="./img/14.JPG" width="600" height="250" />
-      </td>
-    </tr>
-    <tr style="width:100%;">
-      <td style="width:50%;">
-        <img src="./img/15.JPG" width="600" height="250" />
-      </td>
-      <td style="width:50%;">
-        <img src="./img/16.JPG" width="600" height="250" />
-      </td>
-    </tr>
-    <tr style="width:100%;">
-      <td style="width:50%;">
-        <img src="./img/17.JPG" width="600" height="250" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-```
+## Presentation(ppt)
+
+| >                           | >                           |
+| :-------------------------- | :-------------------------- |
+| ![Slide1](./upload/2.JPG)   | ![Slide2](./upload/3.JPG)   |
+| ![Slide3](./upload/4.JPG)   | ![Slide4](./upload/5.JPG)   |
+| ![Slide5](./upload/6.JPG)   | ![Slide6](./upload/7.JPG)   |
+| ![Slide7](./upload/8.JPG)   | ![Slide8](./upload/9.JPG)   |
+| ![Slide9](./upload/10.JPG)  | ![Slide10](./upload/11.JPG) |
+| ![Slide11](./upload/12.JPG) | ![Slide12](./upload/13.JPG) |
+| ![Slide13](./upload/14.JPG) | ![Slide14](./upload/15.JPG) |
+| ![Slide15](./upload/16.JPG) | ![Slide16](./upload/17.JPG) |
